@@ -1,0 +1,22 @@
+{"message":"isPrime method invoked with parameter = 0","level":"info","timestamp":"2020-09-03T14:12:48.869Z"}
+{"message":"Object returned = Not a Prime Number","level":"info","timestamp":"2020-09-03T14:12:48.870Z"}
+{"message":"isPrime method invoked with parameter = 1","level":"info","timestamp":"2020-09-03T14:12:48.873Z"}
+{"message":"Object returned = Not a Prime Number","level":"info","timestamp":"2020-09-03T14:12:48.873Z"}
+{"message":"isPrime method invoked with parameter = 5","level":"info","timestamp":"2020-09-03T14:12:48.874Z"}
+{"message":"Object returned = Prime Number","level":"info","timestamp":"2020-09-03T14:12:48.874Z"}
+{"message":"isPrime method invoked with parameter = 0","level":"info","timestamp":"2020-09-03T14:12:48.875Z"}
+{"message":"Object returned = Not a Prime Number","level":"info","timestamp":"2020-09-03T14:12:48.875Z"}
+{"message":"isPrime method invoked with parameter = hello","level":"info","timestamp":"2020-09-03T14:12:48.876Z"}
+{"message":"Exception Handled","level":"info","timestamp":"2020-09-03T14:12:48.876Z"}
+{"message":"isPrime method invoked with parameter = 0","level":"info","timestamp":"2020-09-03T14:39:12.140Z"}
+{"message":"Object returned = Not a Prime Number","level":"info","timestamp":"2020-09-03T14:39:12.143Z"}
+{"message":"isPrime method invoked with parameter = 1","level":"info","timestamp":"2020-09-03T14:39:12.150Z"}
+{"message":"Object returned = Not a Prime Number","level":"info","timestamp":"2020-09-03T14:39:12.151Z"}
+{"message":"isPrime method invoked with parameter = 5","level":"info","timestamp":"2020-09-03T14:39:12.153Z"}
+{"message":"Object returned = Prime Number","level":"info","timestamp":"2020-09-03T14:39:12.153Z"}
+{"message":"isPrime method invoked with parameter = 0","level":"info","timestamp":"2020-09-03T14:39:12.155Z"}
+{"message":"Object returned = Not a Prime Number","level":"info","timestamp":"2020-09-03T14:39:12.156Z"}
+{"message":"isPrime method invoked with parameter = hello","level":"info","timestamp":"2020-09-03T14:39:12.157Z"}
+{"message":"Exception Handled","level":"info","timestamp":"2020-09-03T14:39:12.158Z"}
+{"message":"isPrime method invoked with parameter = 1.5","level":"info","timestamp":"2020-09-03T14:39:12.160Z"}
+{"message":"Exception Handled","level":"info","timestamp":"2020-09-03T14:39:12.160Z"}
